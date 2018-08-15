@@ -19,6 +19,8 @@ title:  "EOS导航 (EOS Navigator)"
 
 [Pocket EOS](https://pocketeos.com/#/)&emsp;&emsp;&emsp;[eostoken](http://eostoken.im/)&emsp;&emsp;&emsp;[MEET.ONE](https://meet.one/)
 
+[BitPortal Wallet](https://www.bitportal.io/#/)
+
 
 ## EOS内存价格 (EOS RAM Price)
 
